@@ -15,6 +15,10 @@ My background combines IT operations, business systems, SQL, automation, and web
 
 
 
-## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueLuceroG&layout=compact&theme=tokyonight&hide_border=true)
+📊 GitHub Overview
+
+<div align="lefft">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JosueLuceroG&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueLuceroG&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</div>
