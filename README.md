@@ -9,7 +9,7 @@ My background combines IT operations, business systems, SQL, automation, and web
 
 🤝 Let's Connect
 
-📧 Email: josueisaus98@gmail.com
+📧 Email: josueisai98@gmail.com
 
 🔗 LinkedIn: linkedin.com/in/jlucero
 
