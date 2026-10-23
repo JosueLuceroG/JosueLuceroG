@@ -13,6 +13,17 @@ My background combines IT operations, business systems, SQL, automation, and web
 
 🔗 LinkedIn: linkedin.com/in/jlucero
 
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=JosueLuceroG&show_icons=true&hide_border=false&border_color=00A6FF&bg_color=0D1117&title_color=00A6FF&text_color=C9D1D9&icon_color=00A6FF"
+    alt="GitHub Stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueLuceroG&layout=compact&hide_border=false&border_color=00A6FF&bg_color=0D1117&title_color=00A6FF&text_color=C9D1D9"
+    alt="Most Used Languages"
+  />
+</p>
 
 
 
