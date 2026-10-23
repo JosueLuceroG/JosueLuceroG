@@ -7,7 +7,7 @@ ________________________________________________________________________________
 My background combines IT operations, business systems, SQL, automation, and web development. I enjoy understanding how businesses work and using technology to make their processes more efficient. 📱
 
 
-🤝 Let's Connect
+🤝🏻 Let's Connect
 
 📧 Email: josueisai98@gmail.com
 
